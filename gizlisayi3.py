@@ -1,6 +1,6 @@
 
 import random
-print("Kadirf Sunar ")
+print("Kadirf Sunar ") 
 x=random.randint(1,1000)
 m=1
 
