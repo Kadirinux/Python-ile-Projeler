@@ -3,7 +3,6 @@ import random
 print("Kadirf Sunar")
 print("Kura Çekimi ✓\n")
 
-
 adet=int(input("Kaç kişisiniz: "))
 sira=""
 siram=0
