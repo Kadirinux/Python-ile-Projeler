@@ -1,4 +1,4 @@
-# kadirinux ★
+# Kadirf Sunar
 # En büyük/küçük sayı tespiti
 
 
