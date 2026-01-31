@@ -1,4 +1,4 @@
-#kadirinux ★
+#Kadirf Sunar
 #faktöriyel 
 
 sayi=int(input("Faktöriyelini Hesaplamak İstediğiniz Sayı: "))
