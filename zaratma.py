@@ -1,7 +1,6 @@
 #Kadirf Sunar
 import random
 
-
 zar="123456"
 
 while True:
