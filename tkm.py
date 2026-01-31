@@ -4,7 +4,6 @@ print("Kadirf Sunar")
 
 while True:
 
-
 	c =input("Taş/Kağıt/Makas ?: ")
 	
 	i="taş","kağıt","makas"
