@@ -1,4 +1,4 @@
-
+print("Kadirf Sunar")
 print("")
 print("Hesap Makinesi")
 while True:
