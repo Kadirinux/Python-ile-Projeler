@@ -1,5 +1,5 @@
 #Kadirf Sunar
-#faktöriyel 
+#faktöriyel
 
 sayi=int(input("Faktöriyelini Hesaplamak İstediğiniz Sayı: "))
 fakt=1
