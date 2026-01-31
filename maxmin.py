@@ -1,7 +1,6 @@
 # Kadirf Sunar
 # En büyük/küçük sayı tespiti
 
-
 adet=int(input("Kaç adet sayı Girilecek: "))
 
 liste=[]
