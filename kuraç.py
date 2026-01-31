@@ -1,6 +1,6 @@
 
 import random
-
+print("Kadirf Sunar")
 print("Kura Çekimi ✓\n")
 
 
