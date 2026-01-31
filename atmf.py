@@ -1,5 +1,5 @@
 
-#kadirinux ★'
+#Kadirf Sunar ★
 
 print("İyi günler..")
 
